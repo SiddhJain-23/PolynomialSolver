@@ -1,9 +1,8 @@
 OUTPUT:
 ### TEST CASE 1 ###
 
-============================================================
+
 Hashira Placements - Polynomial Secret Recovery
-============================================================
 
 Input Parameters:
   n (total points): 4
@@ -14,9 +13,7 @@ Points: [ '(1, 4)', '(2, 7)', '(3, 12)', '(6, 39)' ] ...
 
 Using first 3 points for interpolation
 
-============================================================
 SECRET (Constant Term c): 3
-============================================================
 
 Verification with extra points:
 Using 1 extra points for verification
@@ -25,9 +22,7 @@ Using 1 extra points for verification
 
 ### TEST CASE 2 ###
 
-============================================================
 Hashira Placements - Polynomial Secret Recovery
-============================================================
 
 Input Parameters:
   n (total points): 10
@@ -44,6 +39,4 @@ Points: [
 
 Using first 7 points for interpolation
 
-============================================================
 SECRET (Constant Term c): -6290016743746469796
-===========================================================
